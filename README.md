@@ -1,7 +1,7 @@
 # ctaMTX Library
 A Java library for converting PNG files into Mediocre's MTXv0 files.
 
-Note: You may need to cut out the "0XTM" header manually after the image is converted.
+Note: You may need to cut out the initial "0XTM" header manually after the image is converted.
 
 ------------------
 
